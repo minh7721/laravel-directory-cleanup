@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-directory-cleanup",
+    "name": "nguyenhiep/laravel-directory-cleanup",
     "description": "This package will remove the expired files from the given directories. ",
     "keywords": [
         "spatie",
@@ -19,7 +19,12 @@
             "email": "jolita@spatie.be",
             "homepage": "https://spatie.be",
             "role": "Developer"
-        }
+        },
+        {
+            "name": "Nguyễn Văn Hiệp",
+            "email": "nguyenhiepvan.bka@gmail.com@gmail.com",
+            "role": "Developer"
+        },
     ],
     "require": {
         "php" : "^7.2|^8.0",
