@@ -22,9 +22,9 @@
         },
         {
             "name": "Nguyễn Văn Hiệp",
-            "email": "nguyenhiepvan.bka@gmail.com@gmail.com",
+            "email": "nguyenhiepvan.bka@gmail.com",
             "role": "Developer"
-        },
+        }
     ],
     "require": {
         "php" : "^7.2|^8.0",
