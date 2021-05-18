@@ -21,7 +21,7 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 You can install the package via composer:
 
 ``` bash
-composer require spatie/laravel-directory-cleanup
+composer require nguyenhiep/laravel-directory-cleanup
 ```
 
 In Laravel 5.5 the service provider will automatically get registered. In older versions of the framework just add the service provider in `config/app.php` file:
